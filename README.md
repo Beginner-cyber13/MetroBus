@@ -93,7 +93,7 @@ Steps
 
 Clone the repository
 
-git clone https://github.com/yourusername/metro-bus-system.git
+git clone https://github.com/Beginner-cyber13/MetroBus.git
 
 Open the project in Visual Studio
 
